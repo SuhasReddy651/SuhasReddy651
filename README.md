@@ -4,7 +4,7 @@
 
 
 - 👀 I’m interested in **App Development, WebDevelopment, AI & NLP**.
-- 🌱 I’m currently learning **Machine Learning**
+- 🏫 I’m currently at Student at **State University of New York at Buffalo**
 - 😁 Fun Fact : I've gained intrest on computers and stuff after watching **Robo**🤖 Movie in 2010.
 
 <h2 align="left">🖥 Skills :</h2>
