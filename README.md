@@ -37,9 +37,8 @@
 <h3 align="center">Libraries</h3>
 <p align="center">Will be Updated Shortly</p>
 
-<h3 align="center">Operating Systems</h3>
-<p align="center">Will be Updated Shortly</p>
 
+<h3 align="center">Operating Systems</h3>
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
 [![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)](#)
@@ -50,8 +49,8 @@
 
 </div>
 
-<h2 align="center">Get in Touch</h2>
+
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-contact me though mail
-  [![visitors](https://visitor-badge.laobi.icu/badge?page_id=SuhasReddy651.SuhasReddy651)](#)
+  
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=SuhasReddy651.SuhasReddy651)](#)
 </div>
