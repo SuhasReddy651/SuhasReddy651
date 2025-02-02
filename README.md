@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>👀 I’m interested in <strong>AI, Data Science, Business Analytics, App Development, and Web Development</strong>.</p>
-  <p>🎓 Standing at a crossroads, getting ready for the next adventures.</p>
+  <p>🎓 Standing at a crossroads, preparing for the next adventure.</p>
   <p>😁 Fun Fact: I've gained interest in computers and stuff after watching <a href="https://www.imdb.com/title/tt1305797/" target="_blank"><strong>Robot</strong></a> 🤖 Movie in 2010 and AI after watching <a href="https://www.imdb.com/title/tt0371746/" target="_blank"><strong>Iron Man</strong></a> in 2012.</p>
 </div>
 
