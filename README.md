@@ -28,9 +28,10 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](#)
+[![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](#)
 [![SQL (Postgres)](https://img.shields.io/badge/SQL%20(Postgres)-336791?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Swift](https://img.shields.io/badge/Swift-F54A2A?style=for-the-badgelogo=swift&logoColor=white)](#)
+
 
 </div>
 
